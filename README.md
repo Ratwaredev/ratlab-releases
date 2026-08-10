@@ -8,7 +8,7 @@ This repository contains compiled installers and update metadata only. The RatLa
 
 Use the latest `RatLab-Setup-*-x64.exe` from Releases.
 
-RatLab Desktop checks this repository for signed release metadata and can download future updates automatically. Update assets may include the installer, `.blockmap`, and `latest.yml` required by the desktop updater.
+RatLab Desktop checks this repository for release metadata and can download future updates automatically. Update assets may include the installer, `.blockmap`, and `latest.yml` required by the desktop updater.
 
 ## Source
 
