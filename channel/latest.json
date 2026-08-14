@@ -1,6 +1,8 @@
 {
-  "version": "0.2.5",
-  "payloadSha256": "",
+  "version": "0.2.7",
+  "payloadSha256": "d1526887ae450b80cb652c8336bca67c90eb74327174114a8daecd49c345a406",
   "encoding": "base64",
-  "chunks": []
+  "chunks": [
+    "https://raw.githubusercontent.com/Ratwaredev/ratlab-releases/main/channel/0.2.7/payload-000.b64"
+  ]
 }
