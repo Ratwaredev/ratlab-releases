@@ -1,10 +1,12 @@
 {
-  "version": "0.2.8",
-  "payloadSha256": "6b9287874c3427540279d1e2b6549c999045935834823d95dbacae0e196f4ac1",
+  "version": "0.2.9",
+  "payloadSha256": "a98b1ad6f123aae196bcfeaf6af2c88ffe25e8dae009b866d3802dedf7dd617e",
   "encoding": "base64",
   "chunks": [
-    "https://raw.githubusercontent.com/Ratwaredev/ratlab-releases/main/channel/0.2.8/payload-000.b64",
-    "https://raw.githubusercontent.com/Ratwaredev/ratlab-releases/main/channel/0.2.8/payload-001.b64",
-    "https://raw.githubusercontent.com/Ratwaredev/ratlab-releases/main/channel/0.2.8/payload-002.b64"
+    "https://raw.githubusercontent.com/Ratwaredev/ratlab-releases/main/channel/0.2.9/app-000.b64",
+    "https://raw.githubusercontent.com/Ratwaredev/ratlab-releases/main/channel/0.2.9/app-001.b64",
+    "https://raw.githubusercontent.com/Ratwaredev/ratlab-releases/main/channel/0.2.9/app-002.b64",
+    "https://raw.githubusercontent.com/Ratwaredev/ratlab-releases/main/channel/0.2.9/app-003.b64",
+    "https://raw.githubusercontent.com/Ratwaredev/ratlab-releases/main/channel/0.2.9/app-004.b64"
   ]
 }
