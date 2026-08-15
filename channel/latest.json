@@ -1,8 +1,10 @@
 {
-  "version": "0.2.7",
-  "payloadSha256": "d1526887ae450b80cb652c8336bca67c90eb74327174114a8daecd49c345a406",
+  "version": "0.2.8",
+  "payloadSha256": "6b9287874c3427540279d1e2b6549c999045935834823d95dbacae0e196f4ac1",
   "encoding": "base64",
   "chunks": [
-    "https://raw.githubusercontent.com/Ratwaredev/ratlab-releases/main/channel/0.2.7/payload-000.b64"
+    "https://raw.githubusercontent.com/Ratwaredev/ratlab-releases/main/channel/0.2.8/payload-000.b64",
+    "https://raw.githubusercontent.com/Ratwaredev/ratlab-releases/main/channel/0.2.8/payload-001.b64",
+    "https://raw.githubusercontent.com/Ratwaredev/ratlab-releases/main/channel/0.2.8/payload-002.b64"
   ]
 }
